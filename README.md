@@ -9,6 +9,7 @@
 
 ## 키 설정
 - [keyd 설치](https://github.com/rvaiya/keyd)
+- 설명서 : https://raw.githubusercontent.com/rvaiya/keyd/refs/heads/master/docs/keyd.scdoc
 - 세팅 파일 참고 (/keyd)
     - 위치 : /etc/keyd/default.conf
 - 기본 세팅
